@@ -1,6 +1,7 @@
 # Texture Shader For GMS2
 A simple utility for more visual variety in Game Maker projects, removing the need of surfaces for simple masking, scrolling and zooming.
-<img src=".github/preview.mp4">
+
+<img src=".github/preview.gif">
 
 # Usage
 Here's an example how you would use the shader to apply scrolling, scaling and a mask to an object.
