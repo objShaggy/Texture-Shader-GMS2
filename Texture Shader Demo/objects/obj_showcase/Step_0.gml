@@ -51,3 +51,6 @@ with (background)
         random_scale_cooldown = irandom_range(120, 380)
     }
 }
+
+if (keyboard_check_pressed(vk_f11))
+    hide_text = !hide_text;

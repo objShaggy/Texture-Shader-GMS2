@@ -19,6 +19,9 @@ if (show_index != 2)
 
 shader_reset();
 
+if (hide_text)
+    exit;
+
 draw_set_font(fnt_default);
 
 draw_set_valign(fa_top)

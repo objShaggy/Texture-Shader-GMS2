@@ -2,6 +2,7 @@ circle_mask = new Mask(spr_animated_mask, 0, 0);
 
 showing_title = "Foreground, Background and Mask";
 show_index = 0;
+hide_text = false;
 
 with (circle_mask)
 {
