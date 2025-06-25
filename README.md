@@ -12,8 +12,8 @@ texture = {
     x_scroll: 0,
     y_scroll: 0,
     
-    x_scale: 0,
-    y_scale: 0,
+    x_scale: 1,
+    y_scale: 1,
 }
 
 mask = new Mask(spr_animated_mask, 0, 0);
